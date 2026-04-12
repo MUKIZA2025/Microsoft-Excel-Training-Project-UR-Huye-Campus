@@ -6,15 +6,14 @@ Throughout the sessions, the training focused on building a strong foundation an
 
 ## 📸 Training Sessions
 
-<img src="images/session1.jpeg" width="500"><br>
-<img src="images/session1_2.jpeg" width="500"><br>
-<img src="images/session2.jpeg" width="500"><br>
-<img src="images/session3.jpeg" width="500"><br>
-<img src="images/session3_2.jpeg" width="500"><br>
-
+![Session 1](session1.jpeg)
+![Session 1 - Part 2](session1_2.jpeg)
+![Session 2](session2.jpeg)
+![Session 3](session3.jpeg)
+![Session 3 - Part 2](session3_2.jpeg)
 ## 👥 Participants
 
-<img src="images/group_photo.jpeg" width="500">
+![Group](group_photo.jpeg)
 
 The training covered the following key areas:
 
